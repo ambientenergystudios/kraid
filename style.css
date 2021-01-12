@@ -5,9 +5,12 @@ body {
 
 
 div.TagBack {
-    background: url(img/pexels-vlada-karpovich-4050388.jpg);
-    background-repeat: no-repeat;
     width: 100%;
+    height: auto;
+}
+
+TagBack.img {
+    width:100%;
     height: auto;
 }
 
