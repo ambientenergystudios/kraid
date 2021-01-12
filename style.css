@@ -93,13 +93,13 @@ div.Tagline {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     animation-name: TaglineAnimation;
     animation-duration: 1s;
-    top: 50%;
-    left: 50%;
+    top: 25%;
+    left: 25%;
     padding-top: 1em;
     display: block;
     position: absolute;
     text-align: center;
-    font-size: 8vw;
+    font-size: 4vw;
     color: #ffffff;
 }
 
