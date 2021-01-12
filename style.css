@@ -3,6 +3,7 @@ body {
     background: url(img/pexels-vlada-karpovich-4050388.jpg);
     background-color: #ffffff;
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 
