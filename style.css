@@ -1,9 +1,14 @@
 
 body {
-    background: url(img/pexels-vlada-karpovich-4050388.jpg);
     background-color: #ffffff;
+}
+
+
+div.TagBack {
+    background: url(img/pexels-vlada-karpovich-4050388.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -98,5 +103,8 @@ div.Tagline {
     padding-top: 1em;
     display: block;
     position: relative;
+    text-align: center;
+    font-size: xx-large;
+    color: #ffffff;
 }
 
