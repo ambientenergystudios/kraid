@@ -90,6 +90,7 @@ div.ScreenshotLineup {
 }
   
 div.Tagline {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     animation-name: TaglineAnimation;
     animation-duration: 1s;
     top: 50%;
@@ -98,7 +99,7 @@ div.Tagline {
     display: block;
     position: absolute;
     text-align: center;
-    font-size: xx-large;
+    font-size: 400%;
     color: #ffffff;
 }
 
