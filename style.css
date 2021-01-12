@@ -30,15 +30,6 @@ div.Page {
     font-size: 1.5em;
 }
 
-img.LogoImg {
-    width:auto;
-    max-height:4em;
-    position: relative;
-    display: inline-block;
-    overflow: hidden;
-    margin-left: 0.25em;
-}
-
 span.LogoText {
     font-size: 2em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
